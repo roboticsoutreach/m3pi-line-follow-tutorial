@@ -31,8 +31,6 @@ To put code on the robot, simply click 'compile' in the compiler. After a few se
 
 Unplug the robot, all the lights should turn off. To run the program just turn on the robot! press the button on the top next to the screen, and it should start running the code. (You can also press the small circular button on the mbed to restart the program)
 
-### Uploading to 
-
 ## Programming
 
 This section will give you a fast tour of the basics of programming in C++, you should skim this for differences between it and languages you are familiar with.
